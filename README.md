@@ -37,3 +37,8 @@ Architecture Includes:
 - Fine-tuning of BERT for classification task.
 - Hyperparameter Tuning.
 
+
+## References
+This source code forked and edited from:
+
+https://github.com/engrsoonhtaj/BERT-for-RE/blob/main/Productivity%20ACD.ipynb
