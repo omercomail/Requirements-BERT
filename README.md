@@ -42,3 +42,8 @@ Architecture Includes:
 This source code forked and edited from:
 
 https://github.com/engrsoonhtaj/BERT-for-RE/blob/main/Productivity%20ACD.ipynb
+
+Datasets Sources:
+https://data.mendeley.com/datasets/4ysx9fyzv4/1
+
+https://www.kaggle.com/datasets/iamsouvik/promise
